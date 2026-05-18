@@ -222,10 +222,10 @@ Several challenges were encountered during development:
 
 #  Team
 
-|---|---|
-| Tsigereda Mitiku | 
-| Mahlet Bimr| 
-| Aklilu Abelegn | 
+
+ Tsigereda Mitiku  
+ Mahlet Bimr 
+ Aklilu Abelegn  
 
 
 #  Conclusion
