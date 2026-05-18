@@ -218,3 +218,20 @@ Several challenges were encountered during development:
 - Ensuring scaling and movement did not move the logo outside the visible screen area
 
 ---
+
+
+#  Team
+
+|---|---|
+| Tsigereda Mitiku | 
+| Mahlet Bimr| 
+| Aklilu Abelegn | 
+
+
+#  Conclusion
+
+This project successfully demonstrates the practical application of important Computer Graphics concepts using OpenGL and GLUT. The implementation includes primitive drawing, RGB color handling, translation, rotation, scaling, keyboard interaction, and mouse hover effects.
+
+The addition of real-time transformations and hover interaction improves user engagement and provides a deeper understanding of graphical transformations and event-driven programming in OpenGL.
+
+The project fulfills all required assignment criteria and also includes advanced creative features for bonus marks.
