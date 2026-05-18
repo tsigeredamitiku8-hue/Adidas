@@ -4,7 +4,6 @@ float angle = 0.0f;
 float scaleValue = 1.0f;
 float tx = 0.0f;
 float ty = 0.0f;
-
 bool isHovered = false;
 
 void drawLogo() {
