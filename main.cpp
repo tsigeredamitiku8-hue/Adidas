@@ -78,7 +78,8 @@ void keyboard(unsigned char key, int x, int y){
             ty = 0.0f;
             break;
     }
-
+ glutPostRedisplay();
+}
 void passiveMotion(int mouseX, int mouseY){
 
     float x = (mouseX - 300) / 300.0f;
@@ -94,10 +95,6 @@ void passiveMotion(int mouseX, int mouseY){
     }
 
     glutPostRedisplay();
-}
-
-void init() {
-    gluOrtho2D(-1, 1, -1, 1);
 }
 
 void init() {
