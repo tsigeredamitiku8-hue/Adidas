@@ -1,12 +1,17 @@
 # Group member
 ## Flag
 1   Esuyawkal Fentahun    GUR/01778/16
+
 2  Melat Melkamu  GUR/02800/16
+
 3  Yigermal Kassie  GUR/00991/16
+
 4  Tsigereda Mitiku  GUR/01069/16
 ## Adidas Logo
 5  Mahlet Bimr  GUR/02783/16
+
 6  Tsigereda Mitiku  GUR/01069/16
+
 7  Aklilu Abelegn  GUR/01819/16
 
 # Adidas
