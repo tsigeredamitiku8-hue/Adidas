@@ -41,6 +41,11 @@ void keyboard(unsigned char key, int x, int y);
 void passiveMotion(int mouseX, int mouseY);
 void init();
 
+
+void init() {
+    gluOrtho2D(-1, 1, -1, 1);
+}
+
 int main(int argc, char** argv) {
 
     glutInit(&argc, argv);
@@ -64,9 +69,6 @@ int main(int argc, char** argv) {
     return 0;
 }
 
-void init() {
-    gluOrtho2D(-1, 1, -1, 1);
-}
 
 
 
